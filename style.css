@@ -1,0 +1,85 @@
+body {
+background-color: #404040;
+padding-top: 60px;
+margin-right: 100px;
+margin-left: 100px;
+}
+
+.navbar .container-fluid{
+	padding-left: 70px;
+	padding-right: 70px;
+}
+
+p {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    /*margin-right: 100px;
+    margin-left: 100px;*/
+}
+
+h2 {
+	margin-top: 50px;
+	margin-bottom: 40px;
+	/*margin-right: 100px;
+	margin-left: 100px;*/
+}
+
+ul {
+	/*margin-left: 100px;
+	margin-right: 100px;*/
+}
+
+a:link {
+	color: lightgreen;
+}
+a:visited {
+	color: #24D330;
+}
+	
+
+html, body {
+/*margin:0;
+padding:0;*/
+height: 100%;
+}
+
+#wrapper {
+min-height: 100%;
+position:relative;
+}
+
+#header {
+padding: 1px;
+}
+
+#content {
+	padding-bottom:40px; /* Height of the footer element */
+}
+#footer {
+	width:100%;
+	height:40px;
+	position:absolute;
+	bottom:0;
+	left:0;
+}
+
+p#footertext {
+	margin-top: 0px;
+    	margin-bottom: 0px;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #0094BC;
+}
+
+
+.nav.navbar-nav.navbar-right.social > li > a{
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+.social .fa-linkedin-square:hover, 
+.social .fa-linkedin-square:focus{
+    color: #0094BC;
+}

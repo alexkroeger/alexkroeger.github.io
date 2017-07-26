@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Alex Kroeger</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Bootstrap -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="font-awesome-4.6.1\font-awesome-4.6.1\css\font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+	<script src="http://code.jquery.com/jquery.js"></script>
+	<script type="text/javascript" src="myjquery.js"></script>
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  </head>
+
+ <body>
+ <div id="wrapper">
+
+ <div id="header">
+ </div> <!--header-->
+
+ <div id="content">
+ <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="navMenu">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.html">Alex Kroeger</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="aboutme.html">About Me</a></li>
+      <li class="active"><a href="publications.html">Publications</a></li> 
+      	<li><a href="Resume_Alex_Kroeger.pdf">Resume</a></li>
+	<li><a href="contactme.html">Contact Me</a></li>	
+    </ul>
+    <ul class="nav navbar-nav navbar-right social">
+	    <p class="navbar-text">Elsewhere on the Web:</p>
+                <li><a href="https://www.linkedin.com/in/alexander-kroeger-3b47a272?trk=prof-samename-picture"><i class="fa fa-lg fa-linkedin-square"></i></a></li>
+		<li><a href="https://github.com/alexkroeger"><i class="fa fa-lg fa-github"></i></a></li>
+            </ul>
+  </div>
+ </nav>
+
+
+<font color="ffffff" size=5> 
+<h2><b> Publications </b></h2>
+</font>
+<font color="ffffff" size = 4>
+<ul>
+
+	<li><a href="https://www.newyorkfed.org/research/staff_reports/sr809.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BiQwu4KrqTxmnuggmUjbk1g%3D%3D">"The Pre-Crisis Monetary Policy Framework"</a> with Asani Sarkar and John McGowan, Federal Reserve Bank of New York Staff Report 809, March, 2017.
+	<ul>
+		<li>This paper describes the Federal Reserve’s framework for implementing monetary policy prior to the expansion of the Fed’s balance sheet during the financial crisis. The pre-crisis framework was a reserve-scarcity regime in which banks demanded reserves in order to meet minimum reserve requirements. The New York Fed’s open market trading desk implemented monetary policy by carefully managing the supply of reserves, primarily through the conduct of daily repo operations with primary dealers. The open market trading desk was able to achieve its monetary policy implementation objectives efficiently in the pre-crisis period without impairing financial market functioning. However, the framework deployed was complex relative to alternative implementation frameworks and required substantial intraday overdrafts from the Fed to meet banks’ short-term payment needs. Once its balance sheet expanded in response to the financial crisis, the Fed was no longer able to rely on the pre-crisis framework to control the policy rate. Nevertheless, the open market trading desk successfully controlled the policy rate using the new, post-crisis framework, suggesting that effective monetary control may be achieved through different frameworks.
+		</li>
+	</ul>
+	</li>
+	<li><a href="http://libertystreeteconomics.newyorkfed.org/2016/06/monetary-policy-transmission-before-and-after-the-crisis.html">"Monetary Policy Transmission Before and After the Crisis"</a> with Asani Sarkar, Liberty Street Economics Blog, Federal Reserve Bank of New York, June 29, 2016.
+	<ul>
+		<li>The Federal Open Market Committee implements monetary policy by raising or lowering its target for the federal funds rate, the interest rate banks charge each other for overnight loans. Because the Federal Reserve has no direct control over most interest rates, it relies on arbitrage in money markets for the change in the fed funds rate to be transmitted to other short-term rates, thus causing all short-term rates to move in tandem. This transmission to other rates is an important first step for the Fed’s actions to influence the real economy. In this post, we describe the major developments that have affected monetary policy transmission since the recent financial crisis. We conclude that while arbitrage may have been impeded at the beginning of the crisis, it currently remains effective in transmitting changes in monetary policy via the money markets.
+		</li>
+	</ul>
+	</li>
+	<li> <a href="http://libertystreeteconomics.newyorkfed.org/2016/03/is-bitcoin-really-frictionless.html">"Is Bitcoin Really Frictionless?"</a> with Asani Sarkar, Liberty Street Economics Blog, Federal Reserve Bank of New York, March 23, 2016.
+	<ul>
+		<li>Bitcoin is the most popular virtual currency yet developed. Proponents assert that bitcoin can remove frictions involved in payment and settlement systems by eliminating the need for the financial intermediaries that exist in traditional currencies. In this blog post, my co-author and I show that while bitcoin transfers themselves are relatively frictionless for the user, there are significant frictions when bitcoins trade in exchange markets resulting in meaningful and persistent price differences across bitcoin exchanges. These exchange-related frictions reduce the incentive of market participants to use bitcoin as a payments alternative. 
+		</li>
+		<li>Republished by the World Economic Forum <a href="https://www.weforum.org/agenda/2016/04/why-bitcoin-exchanges-arent-as-straightforward-as-they-seem">here</a>.
+		</li>
+	</ul>
+	</li>
+	<li><a href="http://www.ingentaconnect.com/content/hsp/jpss/2016/00000010/00000001/art00008">"The Payment System Benefits of High Reserve Balances"</a> with James McAndrews, <i>Journal of Payment Strategy and Systems</i> (2016), vol. 10(1).
+	<ul>
+		<li>The policy measures since the financial crisis have greatly expanded the size of the Federal Reserve’s balance sheet, and have thus also raised the level of aggregate bank reserves. Over the same time period there has been a significant shift in the timing of payments over the Federal Reserve’s Fedwire Funds service toward earlier settlement. This paper documents this timing change and presents regression results that suggest that the increase in overall reserve balances explains the vast majority of this development. This paper also discusses the benefits of high aggregate reserve balances for the robustness of the payment system and its potential implications for policy going forward.
+		</li>
+		<li>Expanded version availabe as Federal Reserve Bank of New York <a href="https://www.newyorkfed.org/research/staff_reports/sr779.html">Staff Report 779</a>.
+		</li>
+	</ul>
+	</li>
+</ul>
+</font>
+<br>
+<br>
+<br>
+
+<script src="js/bootstrap.min.js"></script>
+
+</div> <!--content-->
+
+<div id="footer">
+<font color="ffffff"size=2>
+<p id="footertext"> copyright &copy 2016 Alex Kroeger </p>
+</font>
+</div> <!--footer-->
+
+</div> <!--wrapper-->
+
+</body>
+</html>

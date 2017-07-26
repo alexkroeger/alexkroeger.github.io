@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Alex Kroeger</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Bootstrap -->
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="font-awesome-4.6.1\font-awesome-4.6.1\css\font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="style.css" rel="stylesheet" type="text/css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+	<script src="http://code.jquery.com/jquery.js"></script>
+	<script type="text/javascript" src="myjquery.js"></script>
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  </head>
+ <body>
+ <div id="wrapper">
+
+ <div id="header">
+ </div>
+
+ <div id="content">
+ <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="navMenu">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.html">Alex Kroeger</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li><a href="index.html">Home</a></li>
+      <li class="active"><a href="aboutme.html">About Me</a></li>
+      <li><a href="publications.html">Publications</a></li> 
+      	<li><a href="Resume_Alex_Kroeger.pdf">Resume</a></li>
+	<li><a href="contactme.html">Contact Me</a></li>	
+    </ul>
+    <ul class="nav navbar-nav navbar-right social">
+	    <p class="navbar-text">Elsewhere on the Web:</p>
+                <li><a href="https://www.linkedin.com/in/alexander-kroeger-3b47a272?trk=prof-samename-picture"><i class="fa fa-lg fa-linkedin-square"></i></a></li>
+		<li><a href="https://github.com/alexkroeger"><i class="fa fa-lg fa-github"></i></a></li>
+            </ul>
+  </div>
+ </nav>
+
+
+<font color="ffffff" size=5> 
+<h2><b> About Me </b></h2>
+</font>
+<font color="ffffff" size = 4>
+<p> I'm currently a research analyst at the Federal Reserve Bank of New York. I graduated from the University of Notre Dame in 2015 with a bachelor's degree in finance and economics.
+</p>
+<p> One of my personal hobbies is following bitcoin and distributed ledger technology more generally. If you're new to bitcoin, it might be worth checking out some of the info at <a href="https://bitcoin.org/en/">bitcoin.org</a>.</p>
+
+<p>Here are links to some of my favorite cryptocurrency sites:</p>
+<div class="row">
+	<div class="col-sm-4">
+<ul>
+	<li><a href=https://bitcoinity.org/markets>bitcoinity</li>
+	<li><a href=http://bitcoincharts.com/>bitcoincharts.com</li>
+	<li><a href=https://www.coinbase.com/?locale=en>coinbase</li>
+	<li><a href=https://www.ethereum.org/>the ethereum project</li>
+	<li><a href=https://lightning.network/>the lightning network</li>
+	</font>
+</ul>
+	</div>
+	<div class="col-sm-4">
+		<a href="http://bitcoinity.org/markets/coinbase/USD" target="_blank">
+  <img src="http://bitcoinity.org/markets/image?span=24h&size=medium&currency=USD&exchange=coinbase" alt="bitcoin price chart"/>
+</a>
+	</div>
+	<div class="col-sm-4">
+<a href="http://bitcoinity.org/markets/coinbase/USD" target="_blank">
+  <img src="http://bitcoinity.org/markets/image?span=6m&size=medium&currency=USD&exchange=coinbase" alt="bitcoin price chart"/>
+</a>
+	</div>
+</div>
+<br>
+<br>
+<br>
+
+<script src="js/bootstrap.min.js"></script>
+     
+</div> <!--content-->
+
+<div id="footer">
+<font color="ffffff"size=2>
+<p id="footertext"> copyright &copy 2016 Alex Kroeger </p>
+</font>
+</div> <!--footer-->
+
+</div> <!--wrapper-->
+</body>
+</html>
